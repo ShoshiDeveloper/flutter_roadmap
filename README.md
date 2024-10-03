@@ -102,7 +102,7 @@ Map<int, int> intMap = {3: 24, 4: 45};
 |cascade|`..`    `?..`|Left|
 |assignment|`=`    `*=`    `/=`   `+=`   `-=`   `&=`   `^=`   _etc._|Right|
 |spread|`...`    `...?`|None|
-## 1.5 Functions
+## Functions
 ### Описание конструкции:
 ```dart
 [TYPE] [NAME]([PARAMS]) [ASYNC] {}
